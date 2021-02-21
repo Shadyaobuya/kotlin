@@ -25,5 +25,10 @@ fun main() {
     }
 
 
-    println("Your name is $fullName you are $age  years old. This is your phone number: $number .You weigh $weight kgs and your nationality is $citizenship")
+    println("Your name is $fullName")
+    println("you are $age  years old.")
+    println("Your Phone number: $number")
+    println("You weigh $weight kgs")
+    println("Your nationality is: $number ")
+
 }
